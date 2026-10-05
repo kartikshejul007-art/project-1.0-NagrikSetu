@@ -1,0 +1,6 @@
+{
+  "name": "NagrikSetu",
+  "description": "Bridging citizen voice and public priorities. A multilingual civic-tech prototype transforming citizen development requests into explainable infrastructure-demand hotspots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
